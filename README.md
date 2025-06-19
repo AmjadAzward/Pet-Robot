@@ -4,6 +4,8 @@
 
 ![Pet Robot Screenshot](https://raw.githubusercontent.com/AmjadAzward/Pet-Robot/main/Images/Screenshot%202025-02-20%20092318.png)
 
+![Pet Robot Screenshot](https://raw.githubusercontent.com/AmjadAzward/Pet-Robot/main/Images/Screenshot%202025-02-20%20092806.png)
+
 ---
 
 ###  Software Setup (Arduino IDE)
