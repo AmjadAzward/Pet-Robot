@@ -1,10 +1,12 @@
-## 🔧 Setup Guide
+##  Setup Guide - Pet Robot
 
 > For detailed hardware setup and required components, please **refer to the project report**.
 
+![Pet Robot Screenshot](https://raw.githubusercontent.com/AmjadAzward/Pet-Robot/main/Images/Screenshot%202025-02-20%20092318.png)
+
 ---
 
-### 🖥️ Software Setup (Arduino IDE)
+###  Software Setup (Arduino IDE)
 
 1. **Install Arduino IDE**  
    Download and install the latest Arduino IDE from:  
